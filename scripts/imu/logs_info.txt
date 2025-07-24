@@ -1,0 +1,7 @@
+First run at 1100 max proceeded until completion -- boat didn't go far enough to need manual stopping.
+
+Second run "2000-max-failed" didn't go far on account of one motor being dysfunctional -- basically just turned slowly and then we pulled it out.
+
+Third run "2000-max-failed1" went far, but eventually ran out of string so we stopped it early (after ramping up to 1530.)
+
+Fourth run "2000-max-failed2" went further than third, ramping up to 1890 before we manually stopped it due to being too far out.

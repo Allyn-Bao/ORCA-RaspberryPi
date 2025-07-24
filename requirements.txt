@@ -1,0 +1,11 @@
+pyserial
+smbus2
+Adafruit_CircuitPython_BusDevice
+RPi.GPIO
+opencv-python
+numpy
+matplotlib
+pyquaternion
+control
+filterpy
+cvxpy
